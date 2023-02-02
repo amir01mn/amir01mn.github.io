@@ -202,7 +202,7 @@ button:hover{
     cursor: pointer;
 
 }
-.service{
+.project{
     background: #101010;
     width: 100%;
     padding: 100px 0px;
@@ -368,9 +368,9 @@ footer p:nth-child(2){
     color: #f9004d;
 
 }
-h5{
+.skills h5{
     color: white;
-    font-size: 23px;
+    font-size: 45px;
     margin-bottom: 15 px;
 }
 .skills .pra {
